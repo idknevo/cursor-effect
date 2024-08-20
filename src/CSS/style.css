@@ -14,7 +14,7 @@ span {
   pointer-events: none;
   width: 100px;
   height: 100px;
-  background: url("../img/heart.svg");
+  background: url("../img/star.svg");
   background-size: cover;
   position: absolute;
   top: 50%;
